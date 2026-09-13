@@ -1,4 +1,4 @@
-# Recoverly
+Recoverly
 
 Recoverly is an approval-first recovery workspace for Kenyan coffee and tea exporters managing overdue B2B invoices. It turns an invoice and contract into a structured case, prepares an appropriate collection action, keeps a human operator in control, and reconciles Hedera USDC settlement back to the case.
 
